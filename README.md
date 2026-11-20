@@ -1,3 +1,9 @@
+[ENG]
+
+Description: This is Minecraft, made from scratch using AI. It has blocks, items, infinite generation, furnaces, chests, workbenches, mobs, etc. Have fun playing! How to play: download the archive or release; it contains the file minecraft.html; open it, a browser will open, and you can play. How to run the server: to run the server, you need to download node.js from the website, then in the game folder, run server.bat; a terminal will open with the IP; players connect using the IP and port 3000, and the host itself connects via localhost:3000, and that’s it.
+
+[RUS]
+
 Описание:
 Это майнкрафт,сделанный с нуля спомощью ии.В нём есть блоки,предметы,бесконечная генерация,печки,сундуки,верстаки,мобы и т.д
 Приятной игры!
